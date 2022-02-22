@@ -1,9 +1,1 @@
-```
-     (_(
-    ('')
-  _  "\ )>,_     .-->                                                              https://akbar.kustirama.id/
-  _>--w/((_ >,_.'
-         ///
-         "`"     What?!
-
-```
+<a href="https://akbar.kustirama.id/"><img src="https://assets.codelatte.id/images/uploads/js.gif"></a>
