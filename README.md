@@ -4,5 +4,5 @@
                             ( •_•)               _  "\ )>,_     .-->
                             🍺<\                  _>--w/((_ >,_.'
                              It's                         ///
-                               Mine                      "`"     https://akbar.kustirama.id/
+                               Mine                      "`"     https://abay.sh/
 ```
